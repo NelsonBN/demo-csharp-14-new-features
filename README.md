@@ -1,6 +1,6 @@
 # C# 14 - New Features
 
-Check my post in my [blog](https://nelsonbn.com/blog) where I discuss more about each feature.
+Check my post in my [blog](https://nelsonbn.com/blog/csharp-14-new-features) where I discuss more about each feature.
 
 ## Demos
 
